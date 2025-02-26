@@ -34,5 +34,5 @@ Kullanıcı adı girerek sohbete katılabilirsiniz.
 
 3) UDP İstemciyi Çalıştır
 
-A lternatif olarak UDP istemciyi çalıştırabilirsiniz:
+Alternatif olarak UDP istemciyi çalıştırabilirsiniz:
 
